@@ -13,7 +13,7 @@
 
 <table align="center">
   <tr>
-    <td width="320">
+    <td width="380">
       <a href="https://github.com/eurekacgr/eureka">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true&v=2"/>
       </a>
