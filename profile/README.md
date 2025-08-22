@@ -24,10 +24,9 @@
   <a href="https://github.com/eurekacgr/ChatbotIA-RAG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=ChatbotIA-RAG&theme=dark&hide_border=true" />
   </a>
-  <a href="https://github.com/eurekacgr/codigo_extraccionIA_resolucionesDJ">
-    <!-- ⬆️ Ajusta el nombre exacto del repo si es distinto -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=codigo_extraccionIA_resolucionesDJ&theme=dark&hide_border=true" />
-  </a>
+<a href="https://github.com/eurekacgr/c-digo_extraccionIA_resolucionesDJ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=c-digo_extraccionIA_resolucionesDJ&theme=dark&hide_border=true" />
+</a>
 </p>
 
 ---
