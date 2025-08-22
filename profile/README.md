@@ -11,8 +11,6 @@
 
 ### 🚀 Repos relacionados con el proyecto
 
-### 🚀 Repos relacionados con el proyecto
-
 <table align="center">
   <tr>
     <td>
@@ -20,7 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true&v=2" />
       </a>
     </td>
-    <td style="vertical-align:middle; padding-left:12px;">
+    <td style="vertical-align:middle; padding-left:18px;">
       <b>Repositorio "eureka"</b><br/>
       <sub>
         En este repositorio vamos a encontrar toda la información relacionada con el <b>sitio web de Eureka Team</b>. 
