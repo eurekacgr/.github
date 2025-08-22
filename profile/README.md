@@ -46,5 +46,3 @@
 <p align="center">
   <a href="https://github.com/eurekacgr">GitHub</a>.
 </p>
-
-<!-- Consejo: sube tu logo a profile/assets/ y usa la ruta relativa para evitar permisos externos -->
