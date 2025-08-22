@@ -15,10 +15,10 @@
   <tr>
     <td>
       <a href="https://github.com/eurekacgr/eureka">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true&v=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true&v=2" width="420"/>
       </a>
     </td>
-    <td style="vertical-align:middle; padding-left:18px;">
+    <td style="vertical-align:middle; padding-left:12px;">
       <b>Repositorio "eureka"</b><br/>
       <sub>
         En este repositorio vamos a encontrar toda la información relacionada con el <b>sitio web de Eureka Team</b>. 
@@ -31,7 +31,7 @@
   <tr>
     <td>
       <a href="https://github.com/eurekacgr/cadete_cgr">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=cadete_cgr&theme=dark&hide_border=true&v=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=cadete_cgr&theme=dark&hide_border=true&v=2" width="420"/>
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
@@ -47,7 +47,7 @@
   <tr>
     <td>
       <a href="https://github.com/eurekacgr/ChatbotIA-RAG">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=ChatbotIA-RAG&theme=dark&hide_border=true&v=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=ChatbotIA-RAG&theme=dark&hide_border=true&v=2" width="420"/>
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
@@ -63,7 +63,7 @@
   <tr>
     <td>
       <a href="https://github.com/eurekacgr/c-digo_extraccionIA_resolucionesDJ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=c-digo_extraccionIA_resolucionesDJ&theme=dark&hide_border=true&v=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=c-digo_extraccionIA_resolucionesDJ&theme=dark&hide_border=true&v=2" width="420"/>
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
