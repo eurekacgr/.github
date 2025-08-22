@@ -81,7 +81,7 @@
 
 ### 🧰 Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,flask,react,tailwind,bootstrap,docker,github,git,vercel,gcp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,react,tailwind,bootstrap,github,git&perline=8" />
 </p>
 
 ---
