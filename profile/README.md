@@ -11,6 +11,8 @@
 
 ### 🚀 Repos relacionados con el proyecto
 
+### 🚀 Repos relacionados con el proyecto
+
 <table align="center">
   <tr>
     <td>
@@ -19,8 +21,12 @@
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
-      <b>eureka</b><br/>
-      <sub>Sitio web de Eureka Team con material del proyecto.</sub>
+      <b>Repositorio "eureka"</b><br/>
+      <sub>
+        En este repositorio vamos a encontrar toda la información relacionada con el <b>sitio web de Eureka Team</b>. 
+        Aquí se centralizarán los recursos multimedia, la documentación y los avances del proyecto, con el fin de mostrar 
+        la información de una forma más diferenciadora, ordenada y accesible para el equipo y la organización.
+      </sub>
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -32,7 +38,11 @@
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
       <b>cadete_cgr</b><br/>
-      <sub>Zona gamer | Demo para gamificación y mejoras de un futuro modelo FT.</sub>
+      <sub>
+        Este repositorio contiene la <b>demo gamificada de Cadete</b>, un espacio de experimentación pensado para fomentar 
+        la interacción, el aprendizaje y la motivación dentro del equipo. Sirve como base para explorar futuras mejoras 
+        relacionadas con la gamificación y el desarrollo de modelos de <i>IA Fine-tuning</i>.
+      </sub>
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -44,7 +54,11 @@
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
       <b>ChatbotIA-RAG</b><br/>
-      <sub>Chatbot con RAG y Gemini para consultas sobre resoluciones de acto final.</sub>
+      <sub>
+        Aquí se desarrolla un <b>prototipo de chatbot</b> que utiliza la técnica de <i>Retrieval-Augmented Generation (RAG)</i> 
+        junto con Gemini. Su propósito es permitir consultas directas sobre resoluciones de acto final de la Dirección Jurídica, 
+        facilitando la interacción con la información y el análisis de casos.
+      </sub>
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
@@ -56,11 +70,14 @@
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
       <b>c-digo_extraccionIA_resolucionesDJ</b><br/>
-      <sub>Scripts de extracción y procesamiento de resoluciones en PDF.</sub>
+      <sub>
+        Este repositorio contiene los <b>scripts de extracción y procesamiento</b> de resoluciones en formato PDF. 
+        Su función principal es localizar precedentes y generar insumos que luego son aprovechados por los demás 
+        proyectos del ecosistema de Eureka Team.
+      </sub>
     </td>
   </tr>
 </table>
-
 
 ---
 
