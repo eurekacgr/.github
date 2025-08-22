@@ -1,7 +1,7 @@
 <!-- profile/README.md (org: eurekacgr) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eurekacgr/.github/main/profile/assets/eureka_logo.png" alt="EUREKA Team" width="140" />
+  <img src="profile/assets/eureka_logo.png" alt="EUREKA Team" width="140" />
 </p>
 
 <h2 align="center">EUREKA · Contraloría General de la República</h2>
