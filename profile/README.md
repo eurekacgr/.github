@@ -13,9 +13,9 @@
 
 <table align="center">
   <tr>
-    <td>
+    <td width="420">
       <a href="https://github.com/eurekacgr/eureka">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true&v=2" width="420"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true&v=2"/>
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
@@ -35,7 +35,7 @@
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
-      <b>cadete_cgr</b><br/>
+      <b>Repositorio "cadete_cgr"</b><br/>
       <sub>
         Este repositorio contiene la <b>demo gamificada de Cadete</b>, un espacio de experimentación pensado para fomentar 
         la interacción, el aprendizaje y la motivación dentro del equipo. Sirve como base para explorar futuras mejoras 
@@ -51,7 +51,7 @@
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
-      <b>ChatbotIA-RAG</b><br/>
+      <b>Repositorio "ChatbotIA-RAG"</b><br/>
       <sub>
         Aquí se desarrolla un <b>prototipo de chatbot</b> que utiliza la técnica de <i>Retrieval-Augmented Generation (RAG)</i> 
         junto con Gemini. Su propósito es permitir consultas directas sobre resoluciones de acto final de la Dirección Jurídica, 
@@ -67,7 +67,7 @@
       </a>
     </td>
     <td style="vertical-align:middle; padding-left:12px;">
-      <b>c-digo_extraccionIA_resolucionesDJ</b><br/>
+      <b>Repositorio "c-digo_extraccionIA_resolucionesDJ"</b><br/>
       <sub>
         Este repositorio contiene los <b>scripts de extracción y procesamiento</b> de resoluciones en formato PDF. 
         Su función principal es localizar precedentes y generar insumos que luego son aprovechados por los demás 
