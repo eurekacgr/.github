@@ -11,33 +11,56 @@
 
 ### 🚀 Repos relacionados con el proyecto
 
-<p align="center">
-  <a href="https://github.com/eurekacgr/eureka">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center"><i>Este es el sitio web de Eureka Team, donde se cargarán todos los archivos multimedia relacionados al proyecto.</i></p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/eurekacgr/eureka">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=eureka&theme=dark&hide_border=true&v=2" />
+      </a>
+    </td>
+    <td style="vertical-align:middle; padding-left:12px;">
+      <b>eureka</b><br/>
+      <sub>Sitio web de Eureka Team con material del proyecto.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/eurekacgr/cadete_cgr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=cadete_cgr&theme=dark&hide_border=true&v=2" />
+      </a>
+    </td>
+    <td style="vertical-align:middle; padding-left:12px;">
+      <b>cadete_cgr</b><br/>
+      <sub>Zona gamer | Demo para gamificación y mejoras de un futuro modelo FT.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/eurekacgr/ChatbotIA-RAG">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=ChatbotIA-RAG&theme=dark&hide_border=true&v=2" />
+      </a>
+    </td>
+    <td style="vertical-align:middle; padding-left:12px;">
+      <b>ChatbotIA-RAG</b><br/>
+      <sub>Chatbot con RAG y Gemini para consultas sobre resoluciones de acto final.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td>
+      <a href="https://github.com/eurekacgr/c-digo_extraccionIA_resolucionesDJ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=c-digo_extraccionIA_resolucionesDJ&theme=dark&hide_border=true&v=2" />
+      </a>
+    </td>
+    <td style="vertical-align:middle; padding-left:12px;">
+      <b>c-digo_extraccionIA_resolucionesDJ</b><br/>
+      <sub>Scripts de extracción y procesamiento de resoluciones en PDF.</sub>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/eurekacgr/cadete_cgr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=cadete_cgr&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center"><i>Zona gamer | Demo para fomentar la gamificación y mejoramiento de futuro modelo de IA Fine-tuning.</i></p>
-
-<p align="center">
-  <a href="https://github.com/eurekacgr/ChatbotIA-RAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=ChatbotIA-RAG&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center"><i>Chatbot IA | Demo sobre el uso de un RAG con IA para poder interactuar sobre las resoluciones de acto final de la DJ.</i></p>
-
-<p align="center">
-  <a href="https://github.com/eurekacgr/c-digo_extraccionIA_resolucionesDJ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eurekacgr&repo=c-digo_extraccionIA_resolucionesDJ&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center"><i>Análisis de documentos IA | Demo de análisis de documentos para poder localizar precedentes de las resoluciones que se carguen.</i></p>
 
 ---
 
