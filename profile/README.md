@@ -94,9 +94,7 @@
 ### 🙌 Agradecimiento a los mentores
 
 <div align="center">
-
-- Alejandro Herrera López  
-- Marianela Sánchez Chavarría  
-- Milena Montero Rodríguez  
-
+Alejandro Herrera López  
+Marianela Sánchez Chavarría  
+Milena Montero Rodríguez  
 </div>
