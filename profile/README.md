@@ -91,8 +91,12 @@
   <a href="https://github.com/eurekacgr">GitHub</a>
 </p>
 
-### Agradecimiento a los mentores
+### 🙌 Agradecimiento a los mentores
 
-- Alejandro Herrera López
-- Marianela Sánchez Chavarría
-- Milena Montero Rodríguez
+<div align="center">
+
+- Alejandro Herrera López  
+- Marianela Sánchez Chavarría  
+- Milena Montero Rodríguez  
+
+</div>
